@@ -1,7 +1,7 @@
 <html>
-  <title>
+
     Chat Application
-  </title>
+
   <body>
     <h1> This is just the sample for you to learn about the code.</h1>
   </body>
